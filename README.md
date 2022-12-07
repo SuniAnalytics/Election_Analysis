@@ -33,6 +33,8 @@
 		- Winning Candidate: Diana DeGette
 		- Vote Count: 272,892
 		- % of votes: 73.8%
+		
+ -------insert picture
 
 ## Election-Audit Summary
 
@@ -62,9 +64,12 @@
 		
 ### Enhacencements to script
 
-		Script should be generalized be able to process above dataset changes and also make it dynamic 
+		- Script should be generalized be able to process above dataset changes and also make it dynamic 
 		to aggreate results at multiple levels
-			
+		- Currently script is fixed to analyse results at a county level as shown below. There is scope to 
+		automate it by reading field names from the file
+		
+	-- insert picture
 
 
 
