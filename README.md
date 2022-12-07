@@ -69,7 +69,7 @@
 		- Currently script is fixed to analyse results at a county level as shown below. There is scope to 
 		automate it by reading field names from the file
 		
-	-- insert picture
+	![](https://github.com/SuniAnalytics/Election_Analysis/blob/main/Resources/Screenshot_Codechange.png)
 
 
 
