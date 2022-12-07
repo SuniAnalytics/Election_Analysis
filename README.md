@@ -34,7 +34,7 @@
 		- Vote Count: 272,892
 		- % of votes: 73.8%
 		
-[](https://github.com/SuniAnalytics/Election_Analysis/blob/main/Resources/Output_Election_Analysis.jpg)
+![](https://github.com/SuniAnalytics/Election_Analysis/blob/main/Resources/Output_Election_Analysis.jpg)
 
 ## Election-Audit Summary
 
