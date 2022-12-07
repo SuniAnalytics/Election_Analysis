@@ -34,7 +34,7 @@
 		- Vote Count: 272,892
 		- % of votes: 73.8%
 
-## Election-Audit Summery
+## Election-Audit Summary
 
 	The automated program enables processing of votes data and 
 	aggregated anlytics with a click of the button.	This helped Tom and 
@@ -54,14 +54,16 @@
 		- Total no.of voters in the county 
 			Can expand script to show Voters turnout (e.g. % of votes cast)
 		- Voting Method
-			Voting method column (e.g. Mail in Ballot, punch cards, counting machines) will help provide analytics on voting methods. 
+			Voting method column (e.g. Mail in Ballot, punch cards, counting machines) will help 
+			provide analytics on voting methods. 
 		- Geography Attributes
 			Can aggregate and analyse election results for any elections at different levels
 			e.g Precint, county, senate, state 
 		
-### Enahacncements to script
+### Enhacencements to script
 
-		Script should be generalized be able to process above dataset changes and also make it dynamic to aggreate results at multiple levels
+		Script should be generalized be able to process above dataset changes and also make it dynamic 
+		to aggreate results at multiple levels
 			
 
 
