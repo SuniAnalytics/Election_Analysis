@@ -67,7 +67,7 @@
 		- Script should be generalized be able to process above dataset changes and also make it dynamic 
 		to aggreate results at multiple levels
 		- Currently script is fixed to analyse results at a county level as shown below. There is scope to 
-		automate it by reading field names from the file
+		automate it by reading field names from the file and output the result based on type and level of election. E.g. senate
 		
 ![](https://github.com/SuniAnalytics/Election_Analysis/blob/main/Resources/Screenshot_Codechange.jpg)
 
